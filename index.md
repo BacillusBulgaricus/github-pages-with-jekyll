@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Bacillus Bulgaricus' blog
 
-I'm glad you are here. I plan to talk about ...
+Here I will be learning to create a simple blog site with the help of the **GitHub** _learning bot_ and **Jekyll**. :tada:
