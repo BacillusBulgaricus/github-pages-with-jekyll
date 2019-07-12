@@ -1,15 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Bacillus Bulgaricus' Blog
+author: BacillusBulgaricus
+email: bacillus.bulgaricus@github.io
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Here I will be learning to create a simple blog site with the help of the GitHub learning bot and Jekyll.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: BacillusBulgaricus
+github_username:  BacillusBulgaricus
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
